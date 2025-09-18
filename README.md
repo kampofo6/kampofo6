@@ -1,4 +1,4 @@
-<h3>Hey!👋🏿</h3>
+<h3>Hey! 👋🏿</h3>
 
 I'm Kojo! A Software Engineer in Toronto, Canada 🇨🇦.
 
