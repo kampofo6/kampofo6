@@ -6,7 +6,7 @@ I currently study Software Development @ Sheridan College. I recently worked at 
 
 I'm passionate about building large-scale, high-impact products that create meaningful impact for users. I'm currently developing <b>Point Pilot</b>, a full-stack application that helps users strategize & optimize their credit rewards for maximum financial value!
 
-When I'm not coding, I'm usually discovering new music, hunting for great food, or getting outdoors.
+When I'm not coding, I'm usually making music, hunting for great food, or getting outdoors.
 
 <h3 align="left">I code with</h3>
 
