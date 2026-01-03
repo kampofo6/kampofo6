@@ -9,7 +9,7 @@ Right now, I’m building <b>Point Pilot</b>, a fintech app that helps users opt
 When I'm not coding, I'm usually making music, hunting for great food, or getting outdoors.
 
 <h3 align="left">I code with</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35"/>
