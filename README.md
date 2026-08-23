@@ -4,8 +4,6 @@ I'm Kojo! A Software Engineer in Toronto, Canada 🇨🇦.
 
 I recently graduated from Sheridan College’s Software Development program and have worked on automation and backend systems at RBC, Tangerine, and Scotiabank.
 
-Right now, I’m building <b>Point Pilot</b>, a fintech app that helps users optimize credit card rewards by analyzing spending patterns and recommending smarter card usage.
-
 When I'm not coding, I'm usually making music, hunting for great food, or getting outdoors.
 
 <h3 align="left">I code with</h3>
